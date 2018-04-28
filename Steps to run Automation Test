@@ -1,4 +1,6 @@
-Please find below instructions to run this automated test on your local machine -
+# TestAutomation_using_Espresso
+
+Please find below instructions to run the automated test on your local machine -
 
 Step 1: Goto my Github repository - https://github.com/rajeevcode/TestAutomation_using_Espresso
 
@@ -18,10 +20,10 @@ Step 6: Click on next -> Next -> finish
 
 Step 7: Wait till Gradel build is finished 
 
-Step 8: Goto folder path -> /Users/rajeev.kumar/git/SCB_QAAutomate_Quiz_v2/app/src/androidTest/java/com/sourcey/materiallogindemo
+Step 8: Goto folder path ->     /Users/rajeev.kumar/git/SCB_QAAutomate_Quiz_v2/app/src/androidTest/java/com/sourcey/materiallogindemo
         https://www.screencast.com/t/FINNEgAL7Wj8
 
-Step 9: Right Click on com.sourcey.materiallogindemo 
+Step 9: Right click on com.sourcey.materiallogindemo 
         https://www.screencast.com/t/pJNMrVAZ
 
 Step 10: Click on Run 'Test in' com.sourcey.materiallogindemo 
@@ -35,7 +37,7 @@ Step 12: Trigger the Test run
 Step 13: You can see the automation script running in the console on the target AUT(Application Under Test) Device
          https://www.screencast.com/t/wmj9GdYytC
 
-Step 14: Failed and Passed execution can be seen in the consel and test script run can be seen on the target device.
+Step 14: Failed and Passed execution can be seen in the console and test script running can be seen on the target device.
 
 Step 15:  You can see the Test script execution  logs and status in Console
 
@@ -67,11 +69,7 @@ Step 4: Select Export Test Results  in either of the below format  i.e. -
       - Custom, apply XSLT 
         https://www.screencast.com/t/ajL3vVq9
 
-Step 5: Check the option Open exported file in browser and Click on 'OK'
+Step 5: Check the option 'Open exported file in browser' and Click on 'OK'
         
-Step 6: Now the status of Test Execution can be viewed in any broweser as shown in below sreenshot - 
+Step 6: Now the status of Test Execution can be viewed in any browser as shown in below screenshot - 
         https://screencast.com/t/1Rf7cPnV21
-
-
-
-
