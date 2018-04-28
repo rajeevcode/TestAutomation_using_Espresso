@@ -29,11 +29,12 @@ Step 12: Trigger the Test run
 
 Step 13: Failed and Passed execution can be seen in the concel and test script run can be seen on the target device.
 
-Step 14: Test script execution report you can see in the Console
+Step 14:  You can see the Test script execution report in Console
 
 Step 15: You can even run each Test Suite individually 
 
-Step 16: Right click on the Test Suite -> Click on Run 'Login Test'
+Step 16: Right click on the Test Suite(Say 'Login Test') -> Click on Run 'Login Test'
 
 Step 16: You can see the automation script running in the console on the target AUT(Application Under Test) Device
+
 
