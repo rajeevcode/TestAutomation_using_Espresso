@@ -40,16 +40,13 @@ Step 2: Hover the mouse 'Export Test Result' (Box with Green Arrow point upward)
 Step 3: Click on Export Test Results as shown in screenshot - 
         https://gyazo.com/871148715512e6186ff6895921a9087f
 
-Step 4: Select Export Test Results  in either of the below format  i.e. - 
+Step 4: Select Export Test Results  in either of the mentioned format  i.e. - 
       - HTML
       - XML
       - Custom, apply XSLT 
-
-      https://gyazo.com/80335b8f2b71048f37840441c4413c9c
-
-Step 5: Check the option Open exported file in browser and Click on 'OK'
-       
        https://gyazo.com/80335b8f2b71048f37840441c4413c9c
+     
+Step 5: Check the option Open exported file in browser and Click on 'OK'
 
 Step 6: Now the status of Test Execution can be viewed in any broweser as shown in below sreenshot - 
         https://gyazo.com/9ae155280c06f1e7b1edbf362646baec
