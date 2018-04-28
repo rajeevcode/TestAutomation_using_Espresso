@@ -23,4 +23,9 @@ Step 9: Right Click on com.sourcey.materiallogindemo
 
 Step 10: Click on Run 'Test in' com.sourcey.materiallogindemo 
 
-Step 11: It will ask option to run on Emulator or real devices 
+Step 11: It will ask option to run on Andorid Emulator, Geny Motion or Real devices 
+
+Step 12: Trigger the Test run
+
+Step 13: Failed and Passed execution can be seen in the concel and test script run can be seen on the target device
+
