@@ -35,6 +35,7 @@ Step 12: Trigger the Test run
 
 Step 13: You can see the automation script running in the console on the target AUT(Application Under Test) Device
          https://www.screencast.com/t/wmj9GdYytC
+         https://www.screencast.com/t/iszCYOdK4F9
 
 Step 14: Failed and Passed execution can be seen in the console and test script running can be seen on the target device.
 
