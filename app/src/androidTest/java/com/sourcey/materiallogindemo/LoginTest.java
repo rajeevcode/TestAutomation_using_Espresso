@@ -83,10 +83,8 @@ public class LoginTest {
         } catch (Exception e) {
             e.printStackTrace ();
         }
-
         onView ( withText ( "Hello world!" ) ).check ( matches ( isDisplayed () ) );
         onView ( withId ( R.id.btn_logout ) ).perform ( click () );
-
     }
 
     @Test

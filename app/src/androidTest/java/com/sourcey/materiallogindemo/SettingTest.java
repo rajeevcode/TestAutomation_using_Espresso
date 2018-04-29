@@ -78,7 +78,6 @@ public class SettingTest {
         onView ( withText ( "Hello world!" ) ).check ( matches ( isDisplayed () ) );
     }
 
-
     @Test
     public void clickOnSetting() {
         openActionBarOverflowOrOptionsMenu ( getInstrumentation ().getTargetContext () );
