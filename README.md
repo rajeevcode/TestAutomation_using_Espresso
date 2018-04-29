@@ -13,8 +13,7 @@ Step 3: Open the Android Studio on your local machine
        2. Java 7 above version installed on your machine with set environment variables
 
 Step 4: Select the option 'Open an existing Android Studio Project' in Android Studio'
-        
-	      https://www.screencast.com/t/llX5oGkVrX2w
+        https://www.screencast.com/t/llX5oGkVrX2w
 
 Step 5: Add the Path to the downloaded source code project
 
