@@ -6,7 +6,8 @@ Step 1: Goto my Github repository - https://github.com/rajeevcode/TestAutomation
 Step 2: Clone the entire source code repository to your local machine
 
 Step 3: Open the Android Studio on your local machine
-       Prerequisite - 
+       
+	Prerequisite - 
        1. Android studio should be installed on your local machine
        2. Java 7 above version installed on your machine with set environment variables
 
