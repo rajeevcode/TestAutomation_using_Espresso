@@ -13,7 +13,8 @@ Step 3: Open the Android Studio on your local machine
        2. Java 7 above version installed on your machine with set environment variables
 
 Step 4: Select the option 'Open an existing Android Studio Project' in Android Studio'
-       https://www.screencast.com/t/llX5oGkVrX2w
+       
+   https://www.screencast.com/t/llX5oGkVrX2w
 
 Step 5: Add the Path to the downloaded source code project
 
@@ -42,8 +43,9 @@ Step 11: It will ask option to run on Andorid Emulator, Geny Motion or Real devi
 Step 12: Trigger the Test run
 
 Step 13: You can see the automation script running in the console and on the target AUT(Application Under Test) Device                 
-        https://www.screencast.com/t/wmj9GdYytC
-        https://www.screencast.com/t/iszCYOdK4F9
+    https://www.screencast.com/t/wmj9GdYytC
+       
+   https://www.screencast.com/t/iszCYOdK4F9
 
 Step 14: Failed and Passed execution can be seen in the console and test script running can be seen on the target device.
 
