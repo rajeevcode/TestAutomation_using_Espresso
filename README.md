@@ -28,18 +28,22 @@ Step 8: Goto folder path ->
    https://www.screencast.com/t/FINNEgAL7Wj8
 
 Step 9: Right click on com.sourcey.materiallogindemo 
-        https://www.screencast.com/t/pJNMrVAZ
+       
+   https://www.screencast.com/t/pJNMrVAZ
 
 Step 10: Click on Run 'Test in' com.sourcey.materiallogindemo 
-         https://www.screencast.com/t/pJNMrVAZ
+        
+   https://www.screencast.com/t/pJNMrVAZ
 
 Step 11: It will ask option to run on Andorid Emulator, Geny Motion or Real devices 
-         https://www.screencast.com/t/r9wXcv6teL
+         
+   https://www.screencast.com/t/r9wXcv6teL
 
 Step 12: Trigger the Test run
 
-Step 13: You can see the automation script running in the console and on the target AUT(Application Under Test) Device                  https://www.screencast.com/t/wmj9GdYytC
-         https://www.screencast.com/t/iszCYOdK4F9
+Step 13: You can see the automation script running in the console and on the target AUT(Application Under Test) Device                 
+        https://www.screencast.com/t/wmj9GdYytC
+        https://www.screencast.com/t/iszCYOdK4F9
 
 Step 14: Failed and Passed execution can be seen in the console and test script running can be seen on the target device.
 
@@ -48,7 +52,8 @@ Step 15:  You can see the Test script execution logs and status in Console
 Step 16: You can even run each Test Suite individually 
          
 Step 17: Right click on the Test Suite(Say 'Login Test') -> Click on Run 'Login Test'
-         https://www.screencast.com/t/hkMCLNOdar
+        
+   https://www.screencast.com/t/hkMCLNOdar
 
 Step 18: Each Test Suite can be run individually
 
@@ -64,21 +69,22 @@ Step 1: Goto Run console
 
 Step 2: Hover the mouse 'Export Test Result' (Box with Green Arrow pointing upward) - 
 
-        https://screencast.com/t/HhteVZ1VAUrq
+   https://screencast.com/t/HhteVZ1VAUrq
 
 Step 3: Click on Export Test Results as shown in screenshot - 
 
-        https://gyazo.com/871148715512e6186ff6895921a9087f
+   https://gyazo.com/871148715512e6186ff6895921a9087f
 
 Step 4: Select Export Test Results in either of the below mentioned format  i.e. - 
      
      - HTML
      - XML
      - Custom, apply XSLT 
-     - https://www.screencast.com/t/ajL3vVq9
+     
+   https://www.screencast.com/t/ajL3vVq9
 
 Step 5: Check the option 'Open exported file in browser' and Click on 'OK'
         
 Step 6: Now the status of Test Execution can be viewed in any browser as shown in below screenshot - 
 
-        https://screencast.com/t/1Rf7cPnV21
+   https://screencast.com/t/1Rf7cPnV21
