@@ -14,7 +14,7 @@ Step 3: Open the Android Studio on your local machine
 
 Step 4: Select the option 'Open an existing Android Studio Project' in Android Studio'
         
-	https://www.screencast.com/t/llX5oGkVrX2w
+	      https://www.screencast.com/t/llX5oGkVrX2w
 
 Step 5: Add the Path to the downloaded source code project
 
@@ -24,8 +24,9 @@ Step 7: Wait till Gradel build is finished
 
 Step 8: Goto folder path ->
 
-        /Users/rajeev.kumar/git/SCB_QAAutomate_Quiz_v2/app/src/androidTest/java/com/sourcey/materiallogindemo
-        https://www.screencast.com/t/FINNEgAL7Wj8
+        //git/SCB_QAAutomate_Quiz_v2/app/src/androidTest/java/com/sourcey/materiallogindemo
+       
+			 https://www.screencast.com/t/FINNEgAL7Wj8
 
 Step 9: Right click on com.sourcey.materiallogindemo 
 
